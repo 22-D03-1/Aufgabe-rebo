@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-image: url(../images/Regenbogen2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+   
+}
+.farb1 , .farb2 , .farb3 , .farb4 , .farb5 , .farb6 , .farb7 , .farb8 {
+    width: 100vw;
+    height: 8vw;
+    text-align: center;
+}
+h1 {
+    margin-top: 50px;
+    width: 100vw;
+    height: 15vw;
+    text-align: center;
+    color: white;
+}
+
+.farb1 {
+    background-color: rgba(0, 0, 255, 0.455);
+
+}
+.farb2 {
+    background-color: rgba(255, 0, 0, 0.549);
+}
+.farb3 {
+    background-color: rgba(255, 255, 0, 0.574);
+}
+.farb4 {
+    background-color: rgba(255, 166, 0, 0.714);
+}
+.farb5 {
+    background-color: rgba(64, 226, 43, 0.733);
+}
+.farb6 {
+    background-color: rgba(165, 42, 42, 0.706);
+}
+.farb7 {
+    background-color: rgba(0, 255, 255, 0.686);
+}
+.farb8 {
+    background-color: rgba(100, 148, 237, 0.677);
+}
